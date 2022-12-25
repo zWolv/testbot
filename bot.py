@@ -3,6 +3,10 @@ import requests
 import time
 
 def run_discord_bot():
+    #TOKEN HAS BEEN RESET BY GIT PUSH
+    #TOKEN HAS BEEN RESET BY GIT PUSH
+    #TOKEN HAS BEEN RESET BY GIT PUSH
+    #TOKEN HAS BEEN RESET BY GIT PUSH
     TOKEN = 'NzIzNDczNTg4OTMzNDkyNzM3.G38yhP.wsepP94btK9q6K7FEeWv-sDaSOVYPSO7dpP1UI'
     intents = discord.Intents.all()
     client = discord.Client(intents=intents)
